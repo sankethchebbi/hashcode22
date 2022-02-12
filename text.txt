@@ -1,0 +1,7 @@
+Notes for the HashCode 2022
+---------------------------
+-> Stock prediction/forecasting
+-> Assrt classes available to invest in
+-> Backtesting your hypothesis
+-> Quantatitive Momentum strategy applied in trading
+-> other stochastic process implemented.
